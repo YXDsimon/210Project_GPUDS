@@ -10,7 +10,10 @@ References have to read:
  Access to Storage." arXiv preprint arXiv:2203.04910 (2022).
  
  # BCC:
- ## Background Knowledge:
+ 当前任务：把源码pull下来build，然后熟悉基本操作（见Tutorial）
+ ### Background Knowledge:
  https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
+ ### Tutorial(着重看):
+ https://github.com/YXDsimon/bcc/blob/master/docs/tutorial.md
  
  
