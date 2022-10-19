@@ -9,3 +9,8 @@ References have to read:
 [3] Qureshi, Zaid, et al. "BaM: A Case for Enabling Fine-grain High Throughput GPU-Orchestrated
  Access to Storage." arXiv preprint arXiv:2203.04910 (2022).
  
+ # BCC:
+ ## Background Knowledge:
+ https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
+ 
+ 
