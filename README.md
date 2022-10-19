@@ -8,7 +8,12 @@ References have to read:
  heterogeneous systems." 2019 USENIX Annual Technical Conference (USENIX ATC 19). 2019.
 [3] Qureshi, Zaid, et al. "BaM: A Case for Enabling Fine-grain High Throughput GPU-Orchestrated
  Access to Storage." arXiv preprint arXiv:2203.04910 (2022).
- 
+ #Flash Kernel
+ 已完成。成功在Xavier板子上flash了英伟达提供的Ubuntu特殊版本
+ 登陆板子需要使用UCI VPN
+ ssh simon@128.195.55.217
+ 密码：nvidia
+ 待办事项：创建三个不同账号，以免同时登陆发生冲突
  # BCC:
  当前任务：把源码pull下来build，然后熟悉基本操作（见Tutorial）
  ### Background Knowledge:
