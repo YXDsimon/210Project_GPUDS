@@ -12,7 +12,7 @@ References have to read:
  已完成。成功在Xavier板子上flash了英伟达提供的Ubuntu特殊版本
  登陆板子需要使用UCI VPN
  ssh simon@128.195.55.217
- 密码：nvidia
+ 密码：nvidia//
  待办事项：创建三个不同账号，以免同时登陆发生冲突
  # BCC:
  当前任务：把源码pull下来build，然后熟悉基本操作（见Tutorial）
